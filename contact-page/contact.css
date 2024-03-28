@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(18, 11, 77);
+}
+
+a,p,h1,h2,h3,h4,h5,h6,dl{
+    color: aliceblue;
+}
+
+a,p,h1,h2,h3,h4,h5,h6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

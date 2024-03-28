@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(18, 11, 77);
+}
+
+a,p,h1,h2,h3,h4,h5,h6{
+    color: aliceblue;
+}
+
+a,p,h1,h2,h3,h4,h5,h6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#computer-pic,#football-pic{
+    border-radius: 5px;
+}
+
+#coding-video,#football-video{
+    border-radius: 5px;
+}
+
+
+#p1-rating,#p2-rating{
+    color: aliceblue;
+}
